@@ -1,0 +1,29 @@
+{
+    "shoes":[
+        {
+            "id": "1",
+            "type":"vans",
+            "color":"black"
+        },
+        {
+            "id": "2",
+            "type":"nike",
+            "color":"red"
+        },
+        {
+            "id": "3",
+            "type":"jordan",
+            "color":"yellow"
+        },
+        {
+            "id": "4",
+            "type":"adidas",
+            "color":"green"
+        },
+        {
+            "id": "5",
+            "type":"puma",
+            "color":"pink"
+        }
+    ]
+}
